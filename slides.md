@@ -13,6 +13,14 @@ addons:
   - slidev-addon-components
 ---
 
+# Pizza Party!!
+
+<img v-click src="/assets/pizzaparty.webp" />
+
+---
+layout: intro
+---
+
 # What is Observability
 
 <!--
